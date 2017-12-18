@@ -1,10 +1,15 @@
 @font-face {
-  font-family: myFirstFont;
+  font-family: quicksand;
   src: url(quicksand_book.otf);
 }
 
+@font-face {
+  font-family: blackline;
+  src: url(blacklinescript.ttf);
+}
+
 p {
-  font-family: myFirstFont;
+  font-family: quicksand;
   text-align: center;
   line-height: 150%;
 }
@@ -14,7 +19,8 @@ p {
 }
 
 h1 {
-  font-family: Georgia;
+  font-family: blackline;
+  font-size: 75px;
 }
 
 .content {
@@ -23,3 +29,8 @@ h1 {
   margin: auto; 
 } 
 
+div {
+  text-align: center;
+  padding: 100px;
+
+}
