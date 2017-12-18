@@ -1,0 +1,25 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(quicksand_book.otf);
+}
+
+p {
+  font-family: myFirstFont;
+  text-align: center;
+  line-height: 150%;
+}
+
+.center {
+  text-align: center;
+}
+
+h1 {
+  font-family: Georgia;
+}
+
+.content {
+ 
+  max-width: 500px;
+  margin: auto; 
+} 
+
