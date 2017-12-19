@@ -1,11 +1,11 @@
 @font-face {
   font-family: young;
-  src: url(young.ttf);
+  src: url(fonts/young.ttf);
 }
 
 @font-face {
   font-family: blackline;
-  src: url(blacklinescript.ttf);
+  src: url(fonts/blacklinescript.ttf);
 }
 
 p {
