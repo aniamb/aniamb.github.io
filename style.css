@@ -21,6 +21,7 @@ p {
 h1 {
   font-family: blackline;
   font-size: 75px;
+  color: #5c98f9;
 }
 
 .content {
@@ -40,4 +41,19 @@ ul {
  padding: 0;
  font-family: blackline;
  overflow: hidden;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    background-color: #5c98f9;
+    color: white;
+}
+
+.fa:hover {
+  opacity: 0.7;
 }
