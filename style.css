@@ -1,6 +1,6 @@
 @font-face {
-  font-family: quicksand;
-  src: url(quicksand_book.otf);
+  font-family: young;
+  src: url(young.ttf);
 }
 
 @font-face {
@@ -9,9 +9,11 @@
 }
 
 p {
-  font-family: quicksand;
+  font-family: young;
   text-align: center;
   line-height: 150%;
+  font-size: 17px;
+
 }
 
 .center {
