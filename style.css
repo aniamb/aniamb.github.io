@@ -66,3 +66,7 @@ img {
   max-height: 17%;
   max-width: 17%;
 }
+
+body {
+	background-color: yellow;
+}
