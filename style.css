@@ -62,9 +62,10 @@ ul {
 }
 
 img {
-  border-radius: 50%;
-  max-height: 19%;
+  border-radius: 40px;
+  max-height: 15%;
   max-width: 19%;
+  border: 4px solid #5c98f9;
 }
 
 body {
