@@ -8,6 +8,11 @@
   src: url(fonts/blacklinescript.ttf);
 }
 
+@font-face {
+  font-family: saitama;
+  src: url(fonts/saitama.ttf);
+}
+
 p {
   font-family: young;
   text-align: center;
@@ -32,7 +37,7 @@ a {
 }
 
 h1 {
-  font-family: blackline;
+  font-family: saitama;
   font-size: 75px;
   color: #39ac73;
   line-height: 30%
@@ -55,7 +60,7 @@ h1 {
     width: 20px;
     text-align: center;
     text-decoration: none;
-
+    margin: auto;
     color: #39ac73;
 }
 
