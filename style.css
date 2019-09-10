@@ -64,7 +64,21 @@ h1 {
     color: #39ac73;
 }
 
+.fab {
+    padding: 20px 20px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: auto;
+    color: #39ac73;
+}
+
 .fa:hover {
+  opacity: 0.7;
+}
+
+.fab:hover {
   opacity: 0.7;
 }
 
